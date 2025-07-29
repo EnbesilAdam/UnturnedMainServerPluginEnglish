@@ -1,7 +1,7 @@
 # UnturnedMainServerPlugin
 Hi Im Enbest.
 
-You Can Use This Plugin In Your Server But Its Not Complated I Think It Will Complate Like 1 Or 2 Weeks.
+You Can Use This Plugin In Your Server
 
 This Plugin Has Join,Leave,Diead Messages.
 
