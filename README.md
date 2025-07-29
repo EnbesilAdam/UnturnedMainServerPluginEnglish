@@ -1,13 +1,20 @@
 # UnturnedMainServerPlugin
 Hi Im Enbest.
+
 You Can Use This Plugin In Your Server But Its Not Complated I Think It Will Complate Like 1 Or 2 Weeks.
 
-This Plugin Has Good Commands For Your Server(When I Add)
+This Plugin Has Join,Leave,Diead Messages.
 
-This Plugin Is For Turkish People. When I Finish This Project I Will Make This Plugin For Other Countries.
+This Plugin Is English Rn When I Finish This Project I Will Make This Plugin For Other Countries.
 
-Wait For Plugin!
-:)
+If You Need Any Help:
+
+Discord: enbest
+
+You Can DM Me
+
+But Please Introduce Yourself And Say What Is Th Problem You Have.
+
 
 
 
