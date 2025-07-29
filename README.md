@@ -15,6 +15,10 @@ You Can DM Me
 
 But Please Introduce Yourself And Say What Is Th Problem You Have.
 
+You Can Also Join Nel Plugins!
+
+discord.gg/Plugin
+
 
 
 
